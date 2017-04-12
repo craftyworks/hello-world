@@ -1,6 +1,20 @@
 # Hello World
 Getting Started Repository
 
+## Documentation
+
+Good documentation is key to the success of any project.
+
+enables people to run about a project
+making it easy to understand
+
+GitHub Flows is a lightweight, branch-based workflow that supports team 
+
+This guide explain how and why it works .
+
+Branching is a core concept in Git
+
+There is one rule. Anything in the master branch is always deployable
 ## Features
 
 This document help you to understand why they come to, what they want to.
