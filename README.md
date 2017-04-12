@@ -48,5 +48,4 @@ def foo():
   - [x] 했고
   
   Any word wrapped with two tildes (like ~~this~~) will appear crossed out.
-  
-# ~~fuck~~
+
