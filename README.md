@@ -50,6 +50,6 @@ def foo():
 - [ ] 안했고  
   - [x] 했고  
   - [x] 했고
-  
+  - [] Don't know what to do
   Any word wrapped with two tildes (like ~~this~~) will appear crossed out.
 
