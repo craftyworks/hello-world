@@ -53,3 +53,4 @@ def foo():
   - [] Don't know what to do
   Any word wrapped with two tildes (like ~~this~~) will appear crossed out.
 
+is it possible to commit in this building?
