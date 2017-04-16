@@ -65,3 +65,13 @@ I don't care whom sais it's no use, don't do that, you don't have to.
 
 
 is it possible to commit in this building?
+
+I met my friend in library.
+
+He's shoked when he saw me.
+
+Because i was studying in library. 
+
+I am confident to meet my friend in library doing my work.
+
+
