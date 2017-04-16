@@ -53,4 +53,15 @@ def foo():
   - [] Don't know what to do
   Any word wrapped with two tildes (like ~~this~~) will appear crossed out.
 
+## Features
+
+I'm gonna do edit this document more clearly so another people understand more clearly.
+
+It's my plan today.
+
+There's not reason to stop.
+
+I don't care whom sais it's no use, don't do that, you don't have to.
+
+
 is it possible to commit in this building?
